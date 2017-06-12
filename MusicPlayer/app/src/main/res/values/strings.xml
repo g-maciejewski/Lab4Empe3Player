@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EMPE 3 player</string>
+    <string name="shuffle">shuffle</string>
+    <string name="end">end</string>
+</resources>
